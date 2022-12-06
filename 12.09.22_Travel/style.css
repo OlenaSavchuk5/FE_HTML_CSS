@@ -1,0 +1,33 @@
+.main-header{
+    font-size: 100px;
+    text-transform: uppercase;
+    position: absolute;
+    top: 1px;
+    left: 28.5%;
+    margin: 0;
+    text-align: center;
+}
+  
+.cards-wrapper{
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+  
+.card{
+    height: 450px;
+    width: 30%;  
+    background: #eee;
+}
+  
+.card--down{
+    align-self: flex-end;
+}
+  
+.card__image {
+    display: block;
+    width: 100%;
+}
+
