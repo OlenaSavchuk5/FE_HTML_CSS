@@ -1,6 +1,6 @@
 First steps in IT
 
-[07.09.22_Careos](https://olenasavchuk5.github.io/FE_HTML_CSS/07.09.22_Careos/index.html)
+[07.09.22_Careos]()
 <br/>
 [09.09.22_Marvel](https://olenasavchuk5.github.io/FE_HTML_CSS/09.09.22_Marvel/index.html)
 <br/>
