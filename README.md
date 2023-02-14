@@ -8,4 +8,5 @@ First steps in IT
 <br/>
 [19.09.22_Login](https://olenasavchuk5.github.io/FE_HTML_CSS/19.09.22_Login/login_form.html)
 <br/>
+[](https://olenasavchuk5.github.io/FE_HTML_CSS/26.09.22_Grid-Example/index.html)
 [28.09.22_MY_PROJECT](https://olenasavchuk5.github.io/FE_HTML_CSS/28.09.22_MY_PROJECT/index.html)
